@@ -1,12 +1,12 @@
 package com.mycompany.app;
 
 /**
- * Hello everyone!
+ * Hello World!
  */
 public class App
 {
 
-    private final String message = "Hello everyone!";
+    private final String message = "Hello World!";
 
     public App() {}
 
